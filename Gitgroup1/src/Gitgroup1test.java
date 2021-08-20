@@ -26,12 +26,17 @@ class test2{
 	}
 }
 
+class Testj{
+	public Testj(){
+		
+	}
+}
+
 public class Gitgroup1test {
 	
 	
 
 	public static void main(String[] args) {
-		
 		System.out.println("현재 연결된 번호: 1번, 2번, 3번");
 		System.out.println("번호를 입력하세요");
 		Scanner sc = new Scanner(System.in);
