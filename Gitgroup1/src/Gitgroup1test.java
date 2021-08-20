@@ -26,20 +26,36 @@ class test2{
 	}
 }
 
+class Testj{
+	public Testj(){
+		
+	}
+}
+
 public class Gitgroup1test {
 	
 	
 
 	public static void main(String[] args) {
-		
-		System.out.println("현재 연결된 번호: 1번, 2번");
+<<<<<<< HEAD
+		System.out.println("현재 연결된 번호: 1번, 2번, 3번");
 		System.out.println("번호를 입력하세요");
+=======
+		
+		System.out.println("아아아");
+		
+
+		System.out.println("현재 연결된 번호: 1번, 2번, 3번");
+		System.out.println("번호를 입력하세요");
+
+>>>>>>> JG
 		Scanner sc = new Scanner(System.in);
 		
 		int a = 0;
 		a = sc.nextInt();
 		hiyo hiyo = new hiyo();
 		Yu1 yu = new Yu1();
+//		jingunZzang jz = new jingunZzang();
 
 		switch(a) {
 		case 1 : 
@@ -48,7 +64,9 @@ public class Gitgroup1test {
 		case 2 : 
 			Yu1.Yu();
 			break;
-		case 3 : break;
+		case 3 :
+			jz.jingunGanzi();
+			break;
 		case 4 : break;
 		default : break;
 		}
