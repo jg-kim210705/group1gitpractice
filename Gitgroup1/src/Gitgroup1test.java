@@ -31,6 +31,9 @@ public class Gitgroup1test {
 	
 
 	public static void main(String[] args) {
+		
+		System.out.println("아아아");
+		
 		Scanner sc = new Scanner(System.in);
 		int a = 0;
 		a = sc.nextInt();
