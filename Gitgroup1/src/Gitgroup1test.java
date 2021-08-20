@@ -25,16 +25,23 @@ public class Gitgroup1test {
 	
 
 	public static void main(String[] args) {
+		
+		System.out.println("현재 연결된 번호: 1번, 2번");
+		System.out.println("번호를 입력하세요");
 		Scanner sc = new Scanner(System.in);
+		
 		int a = 0;
 		a = sc.nextInt();
 		hiyo hiyo = new hiyo();
+		Yu1 yu = new Yu1();
 
 		switch(a) {
 		case 1 : 
 			hiyo.ho();
 			break;
-		case 2 : break;
+		case 2 : 
+			Yu1.Yu();
+			break;
 		case 3 : break;
 		case 4 : break;
 		default : break;
