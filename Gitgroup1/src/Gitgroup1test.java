@@ -39,7 +39,7 @@ public class Gitgroup1test {
 		a = sc.nextInt();
 		hiyo hiyo = new hiyo();
 		Yu1 yu = new Yu1();
-		jingunZzang jz = new jingunZzang();
+//		jingunZzang jz = new jingunZzang();
 
 		switch(a) {
 		case 1 : 
