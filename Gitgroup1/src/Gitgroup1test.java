@@ -38,6 +38,7 @@ public class Gitgroup1test {
 
 	public static void main(String[] args) {
 <<<<<<< HEAD
+<<<<<<< HEAD
 		
 		System.out.println("아아아");
 		
@@ -49,6 +50,10 @@ public class Gitgroup1test {
 		System.out.println("현재 연결된 번호: 1번, 2번, 3번");
 		System.out.println("번호를 입력하세요");
 >>>>>>> origin/Yu
+=======
+		System.out.println("현재 연결된 번호: 1번, 2번, 3번");
+		System.out.println("번호를 입력하세요");
+>>>>>>> f29a87c155a62a5267526d80d2fd4c039bf5bd0f
 		Scanner sc = new Scanner(System.in);
 		
 		int a = 0;
