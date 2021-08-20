@@ -26,6 +26,12 @@ class test2{
 	}
 }
 
+class Testj{
+	public Testj(){
+		
+	}
+}
+
 public class Gitgroup1test {
 	
 	
