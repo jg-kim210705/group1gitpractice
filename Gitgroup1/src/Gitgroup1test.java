@@ -17,7 +17,13 @@ class hello{
 		this.nono = nono;
 	}
 	
+}
+
+class test2{
 	
+	public void test() {
+		System.out.println("??");
+	}
 }
 
 public class Gitgroup1test {
