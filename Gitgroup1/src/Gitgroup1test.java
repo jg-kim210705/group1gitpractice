@@ -32,19 +32,31 @@ public class Gitgroup1test {
 
 	public static void main(String[] args) {
 		
+<<<<<<< HEAD
 		System.out.println("아아아");
 		
+=======
+		System.out.println("현재 연결된 번호: 1번, 2번, 3번");
+		System.out.println("번호를 입력하세요");
+>>>>>>> 9534ff88738e35d8bdb0ce48aa02b6be7a0176e4
 		Scanner sc = new Scanner(System.in);
+		
 		int a = 0;
 		a = sc.nextInt();
 		hiyo hiyo = new hiyo();
+		Yu1 yu = new Yu1();
+		jingunZzang jz = new jingunZzang();
 
 		switch(a) {
 		case 1 : 
 			hiyo.ho();
 			break;
-		case 2 : break;
-		case 3 : break;
+		case 2 : 
+			Yu1.Yu();
+			break;
+		case 3 :
+			jz.jingunGanzi();
+			break;
 		case 4 : break;
 		default : break;
 		}
