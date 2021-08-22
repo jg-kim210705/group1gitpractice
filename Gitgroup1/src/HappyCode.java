@@ -5,6 +5,7 @@ public class HappyCode {
 
 		System.out.println("안녕 나는 윤정 ");
 		System.out.println("pouring rain today");
+		System.out.println("HAHAHA");
 	}
 
 }
