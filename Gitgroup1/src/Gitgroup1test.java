@@ -1,41 +1,11 @@
 import java.util.Scanner;
 
 
-class hello{
-	String stuno;
-	int nono;
-	public String getStuno() {
-		return stuno;
-	}
-	public void setStuno(String stuno) {
-		this.stuno = stuno;
-	}
-	public int getNono() {
-		return nono;
-	}
-	public void setNono(int nono) {
-		this.nono = nono;
-	}
-	
-}
 
-class test2{
-	
-	public void test() {
-		System.out.println("??");
-	}
-}
 
-class Testj{
-	public Testj(){
-		
-	}
-}
 
-public class Gitgroup1test {
-	
-	
 
+<<<<<<< HEAD
 	public static void main(String[] args) {
 		System.out.println("현재 연결된 번호: 1번, 2번, 3번, 6번");
 		System.out.println("번호를 입력하세요");
@@ -66,3 +36,6 @@ public class Gitgroup1test {
 	}
 
 }
+=======
+
+>>>>>>> 2b05bcd162769187ae3d328a9099635d10e92faf
